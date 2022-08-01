@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @PabasaraDilshan
 - 👀 I’m interested in CIRCOD
+- 🤔 I'm a self learner
 - 🌱 I’m currently learning Electronic and Telecommunication Engineering
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
