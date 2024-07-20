@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @PabasaraDilshan
 - 👀 I’m interested in CIRCOD
 - 🤔 I'm a self learner
-- 🌱 I’m currently learning Electronic and Telecommunication Engineering
+- 🌱 Graduated from Electronic and Telecommunication Engineering Department at University of Moratuwa
+- 💞️ I’m currently exploring new technologies and work on them
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
