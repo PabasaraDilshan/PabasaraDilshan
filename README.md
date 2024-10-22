@@ -2,7 +2,7 @@
 - 👀 I’m interested in CIRCOD
 - 🤔 I'm a self learner
 - 🌱 Graduated from Electronic and Telecommunication Engineering Department at University of Moratuwa
-- 💞️ I’m currently exploring new technologies and work on them
+- 💞️ I’m currently exploring new technologies and work on them to build innovative solutions
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
